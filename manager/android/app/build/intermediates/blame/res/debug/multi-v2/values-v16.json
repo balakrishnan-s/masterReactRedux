@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/balaks/Documents/development/Reactjs/9/manager/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/balaks/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8338f562c62fde5f8ad4190669f60a22/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/balaks/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/1d8df47a03e85f5db072a6ed380ef8df/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}
