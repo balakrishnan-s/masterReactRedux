@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.facebook.soloader:soloader-0.3.0">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.android/build-cache/d4d0c8abb831a66318045eb2fb48d195c7a14885/output/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.android/build-cache/d4d0c8abb831a66318045eb2fb48d195c7a14885/output/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/377660931a8a1b4764dc4fbd576698db/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/377660931a8a1b4764dc4fbd576698db/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
